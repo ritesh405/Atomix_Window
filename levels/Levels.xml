@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!-- 
+H -> Hydrigen
+C -> Carbon
+O -> Oxygen
+id -> Level Number
+-->
+<atomix>
+	<level id="1">
+		<atom name="H" row="1" col="1"/>
+		<atom name="H" row="5" col="9"/>
+		<atom name="O" row="5" col="5"/>
+	</level>
+	<level id="2">
+		<atom name="H" row="2" col="6"/>
+		<atom name="H" row="5" col="9"/>
+		<atom name="H" row="6" col="2"/>
+		<atom name="H" row="8" col="3"/>
+		<atom name="C" row="3" col="9"/>
+	</level>
+	<level id="3">
+		<atom name="H" row="4" col="3"/>
+		<atom name="H" row="8" col="1"/>
+		<atom name="H" row="6" col="9"/>
+		<atom name="H" row="8" col="2"/>
+		<atom name="C" row="10" col="6"/>
+		<atom name="O" row="3" col="11"/>
+	</level>
+	<level id="4">
+		<atom name="C" row="4" col="4"/>
+		<atom name="C" row="5" col="9"/>
+		<atom name="H" row="2" col="1"/>
+		<atom name="H" row="5" col="7"/>
+		<atom name="H" row="7" col="8"/>
+		<atom name="H" row="7" col="9"/>
+	</level>
+	<level id="5">
+		<atom name="C" row="4" col="4"/>
+		<atom name="C" row="5" col="9"/>
+		<atom name="C" row="2" col="1"/>
+		<atom name="H" row="5" col="7"/>
+		<atom name="H" row="7" col="8"/>
+		<atom name="H" row="7" col="9"/>
+		<atom name="H" row="1" col="3"/>
+		<atom name="H" row="2" col="5"/>
+		<atom name="H" row="4" col="4"/>
+	</level>
+</atomix>

@@ -1,0 +1,6 @@
+Atom	Row	Col
+H	2	6
+H	5	9
+H	6	2
+H	8	2
+C	3	9

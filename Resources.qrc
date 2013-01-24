@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/blank.png</file>
+        <file>images/brick.png</file>
+        <file>images/water.png</file>
+        <file>images/background_1.png</file>
+        <file>images/background_2.png</file>
+        <file>images/background_600_350.png</file>
+        <file>images/background_600_360.png</file>
+        <file>images/background_8_600_360.png</file>
+        <file>images/background_9_600_360.png</file>
+        <file>images/background_10_600_360.png</file>
+        <file>images/background_11_600_360.png</file>
+        <file>images/background_12_600_360.png</file>
+        <file>images/background_15_600_360.png</file>
+        <file>levels/level1/board.txt</file>
+        <file>levels/level1/atom.txt</file>
+        <file>levels/level2/board.txt</file>
+        <file>levels/level2/atom.txt</file>
+        <file>images/background_1_800_600.png</file>
+        <file>images/methane.png</file>
+        <file>images/background_2_750_500.png</file>
+        <file>images/background_1_750_500.png</file>
+        <file>levels/level3/atom.txt</file>
+        <file>levels/level3/board.txt</file>
+        <file>images/methyle_alcohal.png</file>
+        <file>images/carbon_selected.png</file>
+        <file>images/hydrogen_disselected.png</file>
+        <file>images/hydrogen_selected.png</file>
+        <file>images/oxygen_disselected.png</file>
+        <file>images/oxygen_selected.png</file>
+        <file>levels/level4/atom.txt</file>
+        <file>levels/level4/board.txt</file>
+        <file>images/ethylene.png</file>
+        <file>images/carbon_disselected.png</file>
+        <file>levels/level5/atom.txt</file>
+        <file>levels/level5/board.txt</file>
+        <file>levels/Levels.xml</file>
+    </qresource>
+</RCC>
